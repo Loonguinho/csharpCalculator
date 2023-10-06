@@ -1,0 +1,8 @@
+C:\Users\lucas.longo\Desktop\Testes CSharp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\lucas.longo\Desktop\Testes CSharp\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\lucas.longo\Desktop\Testes CSharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\lucas.longo\Desktop\Testes CSharp\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\lucas.longo\Desktop\Testes CSharp\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas.longo\Desktop\Testes CSharp\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lucas.longo\Desktop\Testes CSharp\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\lucas.longo\Desktop\Testes CSharp\Calculator\Calculator\obj\Debug\Calculator.pdb
