@@ -1,4 +1,2 @@
-# csharpCalculator
-Calculator using CSharp language
-
-### Simple Calculator In CSharp
+# Calculator
+Simple Calculator In CSharp
